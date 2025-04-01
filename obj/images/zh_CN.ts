@@ -4665,6 +4665,118 @@ ZIOC-E0008AU1</translation>
         <translation type="unfinished">确认</translation>
     </message>
     <message>
+        <source>690_text</source>
+        <translation type="unfinished">[装壳板]</translation>
+    </message>
+    <message>
+        <source>691_text</source>
+        <translation type="unfinished">[裸板]</translation>
+    </message>
+    <message>
+        <source>692_text</source>
+        <translation type="unfinished">LED人工确认超时时间：</translation>
+    </message>
+    <message>
+        <source>693_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>693_text</source>
+        <translation type="unfinished">00000000</translation>
+    </message>
+    <message>
+        <source>693_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>694_text</source>
+        <translation type="unfinished">ms</translation>
+    </message>
+    <message>
+        <source>695_text</source>
+        <translation type="unfinished">LED检测方式：</translation>
+    </message>
+    <message>
+        <source>696_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>696_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>696_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>697_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>698_text</source>
+        <translation type="unfinished">[装壳板]</translation>
+    </message>
+    <message>
+        <source>699_text</source>
+        <translation type="unfinished">[裸板]</translation>
+    </message>
+    <message>
+        <source>700_text</source>
+        <translation type="unfinished">LED检测方式：</translation>
+    </message>
+    <message>
+        <source>701_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>702_text</source>
+        <translation type="unfinished">LED检测方式：</translation>
+    </message>
+    <message>
+        <source>703_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>704_text</source>
+        <translation type="unfinished">LED检测方式：</translation>
+    </message>
+    <message>
+        <source>705_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>706_text</source>
+        <translation type="unfinished">LED检测方式：</translation>
+    </message>
+    <message>
+        <source>707_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>708_text</source>
+        <translation type="unfinished">LED检测方式：</translation>
+    </message>
+    <message>
+        <source>709_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>710_text</source>
+        <translation type="unfinished">[装壳板]</translation>
+    </message>
+    <message>
+        <source>711_text</source>
+        <translation type="unfinished">[裸板]</translation>
+    </message>
+    <message>
+        <source>712_text</source>
+        <translation type="unfinished">[装壳板]</translation>
+    </message>
+    <message>
+        <source>713_text</source>
+        <translation type="unfinished">[裸板]</translation>
+    </message>
+    <message>
         <source>74_text</source>
         <translation type="unfinished">ZIOD-E0808DN模块ESI烧写</translation>
     </message>
@@ -4920,6 +5032,17 @@ ZIOC-E0008AU1</translation>
     <message>
         <source>Status</source>
         <translation type="unfinished">状态</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenScene</name>
+    <message>
+        <source>1_Entry</source>
+        <translation type="unfinished">自动检测</translation>
+    </message>
+    <message>
+        <source>2_Entry</source>
+        <translation type="unfinished">人工检测</translation>
     </message>
 </context>
 <context>

@@ -4620,6 +4620,118 @@ Please choose a different file name.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>690_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>691_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>692_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>693_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>693_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>693_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>694_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>695_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>696_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>696_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>696_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>697_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>698_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>699_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>700_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>701_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>702_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>703_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>704_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>705_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>706_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>707_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>708_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>709_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>710_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>711_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>712_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>713_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>74_text</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4870,6 +4982,17 @@ Please choose a different file name.</translation>
     <message>
         <source>Status</source>
         <translation type="unfinished">Status</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenScene</name>
+    <message>
+        <source>1_Entry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2_Entry</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
