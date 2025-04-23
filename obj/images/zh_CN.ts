@@ -2173,6 +2173,26 @@ Please choose a different file name.</source>
         <translation type="unfinished">通信报警</translation>
     </message>
     <message>
+        <source>43_title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>44_title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>46_title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>49_title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>50_title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>5_title</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2253,7 +2273,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>112_text</source>
-        <translation type="unfinished">请先输入正确的批次序列号！</translation>
+        <translation type="unfinished">请输入正确的批次序列号！</translation>
     </message>
     <message>
         <source>113_clicked</source>
@@ -2367,7 +2387,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>12_text</source>
-        <translation type="unfinished">返回</translation>
+        <translation type="unfinished">返回主页</translation>
     </message>
     <message>
         <source>136_clicked</source>
@@ -2446,18 +2466,6 @@ Please choose a different file name.</source>
         <translation type="unfinished">请选择插板式模块型号</translation>
     </message>
     <message>
-        <source>156_clicked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>156_onText</source>
-        <translation type="unfinished">文本</translation>
-    </message>
-    <message>
-        <source>156_text</source>
-        <translation type="unfinished">ZIOC-E1600DN</translation>
-    </message>
-    <message>
         <source>157_clicked</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2467,19 +2475,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>157_text</source>
-        <translation type="unfinished">ZIOC-E1600DP</translation>
-    </message>
-    <message>
-        <source>158_clicked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>158_onText</source>
-        <translation type="unfinished">文本</translation>
-    </message>
-    <message>
-        <source>158_text</source>
-        <translation type="unfinished">ZIOC-E0016DN</translation>
+        <translation type="unfinished">ZIOC-E1600DP-Pio  16通道数字输入PNP</translation>
     </message>
     <message>
         <source>159_clicked</source>
@@ -2491,23 +2487,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>159_text</source>
-        <translation type="unfinished">ZIOC-E0016DP</translation>
-    </message>
-    <message>
-        <source>164_text</source>
-        <translation type="unfinished">16通道数字输入NPN</translation>
-    </message>
-    <message>
-        <source>165_text</source>
-        <translation type="unfinished">16通道数字输入PNP</translation>
-    </message>
-    <message>
-        <source>166_text</source>
-        <translation type="unfinished">16通道数字输出NPN</translation>
-    </message>
-    <message>
-        <source>167_text</source>
-        <translation type="unfinished">16通道数字输出PNP</translation>
+        <translation type="unfinished">ZIOC-E0016DP-Pio  16通道数字输出PNP</translation>
     </message>
     <message>
         <source>172_clicked</source>
@@ -3544,12 +3524,6 @@ ZIOC-E0008AI</translation>
         <translation type="unfinished">历史记录</translation>
     </message>
     <message>
-        <source>51_text</source>
-        <translation type="unfinished">点击开始测试前，
-请确认硬件连接与
-模块型号是否正确。</translation>
-    </message>
-    <message>
         <source>520_numUnit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3653,26 +3627,6 @@ ZIOC-E0800AU1-Pio</translation>
     <message>
         <source>542_text</source>
         <translation type="unfinished">EtherCAT从站通用测试架</translation>
-    </message>
-    <message>
-        <source>543_text</source>
-        <translation type="unfinished">耦合器</translation>
-    </message>
-    <message>
-        <source>544_text</source>
-        <translation type="unfinished">16通道数字输出PNP</translation>
-    </message>
-    <message>
-        <source>545_text</source>
-        <translation type="unfinished">16通道数字输入PNP</translation>
-    </message>
-    <message>
-        <source>546_text</source>
-        <translation type="unfinished">8通道单端电压输出</translation>
-    </message>
-    <message>
-        <source>547_text</source>
-        <translation type="unfinished">8通道混合电压输入</translation>
     </message>
     <message>
         <source>548_text</source>
@@ -3903,22 +3857,6 @@ AI误差测试</translation>
     <message>
         <source>58_text</source>
         <translation type="unfinished">是</translation>
-    </message>
-    <message>
-        <source>591_text</source>
-        <translation type="unfinished">8通道混合电压输入</translation>
-    </message>
-    <message>
-        <source>592_text</source>
-        <translation type="unfinished">8通道单端电压输入</translation>
-    </message>
-    <message>
-        <source>593_text</source>
-        <translation type="unfinished">8通道单端电流输入</translation>
-    </message>
-    <message>
-        <source>594_text</source>
-        <translation type="unfinished">8通道单端电压输出</translation>
     </message>
     <message>
         <source>595_text</source>
@@ -4432,10 +4370,6 @@ AI误差测试</translation>
         <translation type="unfinished">确认</translation>
     </message>
     <message>
-        <source>660_text</source>
-        <translation type="unfinished">8通道单端电压输出(+/-10V)</translation>
-    </message>
-    <message>
         <source>661_text</source>
         <translation type="unfinished">测试模块：
 ZIOC-E0008AU1</translation>
@@ -4697,18 +4631,6 @@ ZIOC-E0008AU1</translation>
         <translation type="unfinished">LED检测方式：</translation>
     </message>
     <message>
-        <source>696_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>696_text</source>
-        <translation type="unfinished">0000000000000000</translation>
-    </message>
-    <message>
-        <source>696_write</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>697_write</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4777,13 +4699,306 @@ ZIOC-E0008AU1</translation>
         <translation type="unfinished">[裸板]</translation>
     </message>
     <message>
+        <source>714_text</source>
+        <translation type="unfinished">请选择插板式模块型号</translation>
+    </message>
+    <message>
+        <source>715_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>715_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>715_text</source>
+        <translation type="unfinished">返回</translation>
+    </message>
+    <message>
+        <source>717_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>717_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>717_text</source>
+        <translation type="unfinished">ZCPC-80801-Pio  通用版耦合器</translation>
+    </message>
+    <message>
+        <source>718_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>718_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>718_text</source>
+        <translation type="unfinished">返回</translation>
+    </message>
+    <message>
+        <source>719_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>719_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>719_text</source>
+        <translation type="unfinished">开始测试</translation>
+    </message>
+    <message>
+        <source>720_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>721_text</source>
+        <translation type="unfinished">测试模块：
+ZCPC-80801</translation>
+    </message>
+    <message>
+        <source>723_text</source>
+        <translation type="unfinished">测试中，请勿拔插模块</translation>
+    </message>
+    <message>
+        <source>724_text</source>
+        <translation type="unfinished">测试成功</translation>
+    </message>
+    <message>
+        <source>725_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>725_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>725_text</source>
+        <translation type="unfinished">停止测试</translation>
+    </message>
+    <message>
+        <source>726_text</source>
+        <translation type="unfinished">测试失败</translation>
+    </message>
+    <message>
+        <source>727_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>727_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>727_text</source>
+        <translation type="unfinished">历史记录</translation>
+    </message>
+    <message>
+        <source>728_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>728_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>728_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>729_text</source>
+        <translation type="unfinished">批次序列号：</translation>
+    </message>
+    <message>
+        <source>730_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>730_onText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>730_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>731_text</source>
+        <translation type="unfinished">模块
+电源
+开关</translation>
+    </message>
+    <message>
+        <source>732_text</source>
+        <translation type="unfinished">State: Init</translation>
+    </message>
+    <message>
+        <source>733_text</source>
+        <translation type="unfinished">State: OP</translation>
+    </message>
+    <message>
+        <source>734_text</source>
+        <translation type="unfinished">测试状态：
+初始化主站</translation>
+    </message>
+    <message>
+        <source>741_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>741_text</source>
+        <translation type="unfinished">000</translation>
+    </message>
+    <message>
+        <source>741_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>742_text</source>
+        <translation type="unfinished">测试用时：</translation>
+    </message>
+    <message>
+        <source>743_text</source>
+        <translation type="unfinished">LED检测方式：</translation>
+    </message>
+    <message>
+        <source>744_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>745_text</source>
+        <translation type="unfinished">[装壳板]</translation>
+    </message>
+    <message>
+        <source>746_text</source>
+        <translation type="unfinished">[裸板]</translation>
+    </message>
+    <message>
+        <source>747_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>747_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>747_text</source>
+        <translation type="unfinished">ZIOC-E0008AU-Pio  8通道单端电压输出PNP</translation>
+    </message>
+    <message>
+        <source>748_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>748_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>748_text</source>
+        <translation type="unfinished">ZIOC-E0008AU-Pio  8通道单端电压输出PNP</translation>
+    </message>
+    <message>
+        <source>749_text</source>
+        <translation type="unfinished">测试模块：
+ZCPC-80801-Pio</translation>
+    </message>
+    <message>
         <source>74_text</source>
         <translation type="unfinished">ZIOD-E0808DN模块ESI烧写</translation>
+    </message>
+    <message>
+        <source>750_text</source>
+        <translation type="unfinished">请确认当前被测模块信息：</translation>
+    </message>
+    <message>
+        <source>751_text</source>
+        <translation type="unfinished">型号：ZCPC-80801</translation>
+    </message>
+    <message>
+        <source>752_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>752_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>752_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>753_text</source>
+        <translation type="unfinished">批次序列号：</translation>
+    </message>
+    <message>
+        <source>754_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>754_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>754_text</source>
+        <translation type="unfinished">确认开始测试</translation>
+    </message>
+    <message>
+        <source>757_text</source>
+        <translation type="unfinished">型号：ZCPC-80801-Pio</translation>
+    </message>
+    <message>
+        <source>758_text</source>
+        <translation type="unfinished">成功！</translation>
+    </message>
+    <message>
+        <source>759_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>759_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>759_text</source>
+        <translation type="unfinished">确认</translation>
     </message>
     <message>
         <source>75_text</source>
         <translation type="unfinished">ESI文件烧写中......
 烧写过程中请勿关闭此弹窗。</translation>
+    </message>
+    <message>
+        <source>760_text</source>
+        <translation type="unfinished">测试结果</translation>
+    </message>
+    <message>
+        <source>761_text</source>
+        <translation type="unfinished">被测板1号：</translation>
+    </message>
+    <message>
+        <source>762_text</source>
+        <translation type="unfinished">被测板2号：</translation>
+    </message>
+    <message>
+        <source>763_text</source>
+        <translation type="unfinished">未启用</translation>
+    </message>
+    <message>
+        <source>764_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>764_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>764_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>765_text</source>
+        <translation type="unfinished">测试耗时：</translation>
     </message>
     <message>
         <source>76_clicked</source>
@@ -4798,8 +5013,115 @@ ZIOC-E0008AU1</translation>
         <translation type="unfinished">确认</translation>
     </message>
     <message>
+        <source>782_text</source>
+        <translation type="unfinished">请接上正确的测试架！</translation>
+    </message>
+    <message>
+        <source>783_text</source>
+        <translation type="unfinished">当前选择的测试架为：
+ZPWC-24xx-Test测试架。</translation>
+    </message>
+    <message>
+        <source>784_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>784_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>784_text</source>
+        <translation type="unfinished">知道啦，我检查一下！</translation>
+    </message>
+    <message>
+        <source>786_text</source>
+        <translation type="unfinished">测试状态：
+耦合器供电测试</translation>
+    </message>
+    <message>
+        <source>787_text</source>
+        <translation type="unfinished">测试状态：
+LED视觉检测</translation>
+    </message>
+    <message>
+        <source>788_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>788_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>788_text</source>
+        <translation type="unfinished">ZPWC-240304a  电源板</translation>
+    </message>
+    <message>
+        <source>789_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>789_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>789_text</source>
+        <translation type="unfinished">返回</translation>
+    </message>
+    <message>
         <source>78_text</source>
         <translation type="unfinished">ESI烧写成功，请点击确认退出</translation>
+    </message>
+    <message>
+        <source>790_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>790_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>790_text</source>
+        <translation type="unfinished">开始测试</translation>
+    </message>
+    <message>
+        <source>791_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>794_text</source>
+        <translation type="unfinished">测试中，请勿拔插模块</translation>
+    </message>
+    <message>
+        <source>795_text</source>
+        <translation type="unfinished">测试成功</translation>
+    </message>
+    <message>
+        <source>796_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>796_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>796_text</source>
+        <translation type="unfinished">停止测试</translation>
+    </message>
+    <message>
+        <source>797_text</source>
+        <translation type="unfinished">测试失败</translation>
+    </message>
+    <message>
+        <source>798_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>798_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>798_text</source>
+        <translation type="unfinished">历史记录</translation>
     </message>
     <message>
         <source>79_text</source>
@@ -4819,6 +5141,171 @@ ZIOC-E0008AU1</translation>
         <translation type="unfinished">插板式</translation>
     </message>
     <message>
+        <source>801_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>801_onText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>801_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>802_text</source>
+        <translation type="unfinished">模块
+电源
+开关</translation>
+    </message>
+    <message>
+        <source>803_text</source>
+        <translation type="unfinished">State: Init</translation>
+    </message>
+    <message>
+        <source>804_text</source>
+        <translation type="unfinished">State: OP</translation>
+    </message>
+    <message>
+        <source>805_text</source>
+        <translation type="unfinished">测试状态：
+初始化主站</translation>
+    </message>
+    <message>
+        <source>807_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>807_text</source>
+        <translation type="unfinished">000</translation>
+    </message>
+    <message>
+        <source>807_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>808_text</source>
+        <translation type="unfinished">测试用时：</translation>
+    </message>
+    <message>
+        <source>813_text</source>
+        <translation type="unfinished">测试模块：
+ZPWC-240304a</translation>
+    </message>
+    <message>
+        <source>814_text</source>
+        <translation type="unfinished">测试状态：
+电源板电压测试</translation>
+    </message>
+    <message>
+        <source>816_text</source>
+        <translation type="unfinished">请确认当前被测模块信息：</translation>
+    </message>
+    <message>
+        <source>817_text</source>
+        <translation type="unfinished">型号：ZPWC-240304a</translation>
+    </message>
+    <message>
+        <source>818_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>818_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>818_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>819_text</source>
+        <translation type="unfinished">批次序列号：</translation>
+    </message>
+    <message>
+        <source>820_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>820_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>820_text</source>
+        <translation type="unfinished">确认开始测试</translation>
+    </message>
+    <message>
+        <source>822_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>822_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>822_text</source>
+        <translation type="unfinished">返回</translation>
+    </message>
+    <message>
+        <source>823_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>823_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>823_text</source>
+        <translation type="unfinished">返回</translation>
+    </message>
+    <message>
+        <source>824_text</source>
+        <translation type="unfinished">成功！</translation>
+    </message>
+    <message>
+        <source>825_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>825_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>825_text</source>
+        <translation type="unfinished">确认</translation>
+    </message>
+    <message>
+        <source>826_text</source>
+        <translation type="unfinished">测试结果</translation>
+    </message>
+    <message>
+        <source>827_text</source>
+        <translation type="unfinished">被测板1号：</translation>
+    </message>
+    <message>
+        <source>828_text</source>
+        <translation type="unfinished">被测板2号：</translation>
+    </message>
+    <message>
+        <source>829_text</source>
+        <translation type="unfinished">未启用</translation>
+    </message>
+    <message>
+        <source>830_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>830_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>830_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>831_text</source>
+        <translation type="unfinished">测试耗时：</translation>
+    </message>
+    <message>
         <source>83_clicked</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4831,6 +5318,46 @@ ZIOC-E0008AU1</translation>
         <translation type="unfinished">返回</translation>
     </message>
     <message>
+        <source>844_text</source>
+        <translation type="unfinished">失败！</translation>
+    </message>
+    <message>
+        <source>845_text</source>
+        <translation type="unfinished">失败原因：OP请求失败</translation>
+    </message>
+    <message>
+        <source>846_text</source>
+        <translation type="unfinished">失败原因：电压测试失败</translation>
+    </message>
+    <message>
+        <source>847_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>847_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>847_text</source>
+        <translation type="unfinished">确认</translation>
+    </message>
+    <message>
+        <source>848_text</source>
+        <translation type="unfinished">失败！</translation>
+    </message>
+    <message>
+        <source>849_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>849_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>849_text</source>
+        <translation type="unfinished">确认</translation>
+    </message>
+    <message>
         <source>84_clicked</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4841,6 +5368,47 @@ ZIOC-E0008AU1</translation>
     <message>
         <source>84_text</source>
         <translation type="unfinished">历史记录</translation>
+    </message>
+    <message>
+        <source>850_text</source>
+        <translation type="unfinished">失败原因：ESI读写失败，
+建议检查各个线连接是否正常。</translation>
+    </message>
+    <message>
+        <source>853_text</source>
+        <translation type="unfinished">失败原因：OP请求超时，
+建议检查各个网线连接是否正常。</translation>
+    </message>
+    <message>
+        <source>854_text</source>
+        <translation type="unfinished">失败原因：板卡电压测试异常</translation>
+    </message>
+    <message>
+        <source>855_text</source>
+        <translation type="unfinished">失败原因：有LED灯没亮</translation>
+    </message>
+    <message>
+        <source>856_text</source>
+        <translation type="unfinished">测试状态：
+测试数据记录</translation>
+    </message>
+    <message>
+        <source>857_text</source>
+        <translation type="unfinished">当前选择的测试架为：
+ZCPC-80801-Test测试架。</translation>
+    </message>
+    <message>
+        <source>858_text</source>
+        <translation type="unfinished">当前选择的测试架为：
+ZCPC-8080x-Test测试架。</translation>
+    </message>
+    <message>
+        <source>859_text</source>
+        <translation type="unfinished">当前没有检测到测试架。</translation>
+    </message>
+    <message>
+        <source>860_text</source>
+        <translation type="unfinished">失败原因：外壳改版丝印不对</translation>
     </message>
     <message>
         <source>87_text</source>
