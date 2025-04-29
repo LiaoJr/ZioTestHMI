@@ -2149,14 +2149,6 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>32_title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>33_title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>38_title</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2511,7 +2503,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>173_text</source>
-        <translation type="unfinished">装壳测试</translation>
+        <translation type="unfinished">成品测试</translation>
     </message>
     <message>
         <source>178_clicked</source>
@@ -3630,7 +3622,7 @@ ZIOC-E0800AU1-Pio</translation>
     </message>
     <message>
         <source>548_text</source>
-        <translation type="unfinished">成功！</translation>
+        <translation type="unfinished">通过！</translation>
     </message>
     <message>
         <source>549_clicked</source>
@@ -3651,14 +3643,6 @@ ZIOC-E0800AU1-Pio</translation>
     <message>
         <source>551_text</source>
         <translation type="unfinished">被测板1号：</translation>
-    </message>
-    <message>
-        <source>552_text</source>
-        <translation type="unfinished">被测板2号：</translation>
-    </message>
-    <message>
-        <source>553_text</source>
-        <translation type="unfinished">未启用</translation>
     </message>
     <message>
         <source>554_text</source>
@@ -3685,48 +3669,8 @@ ZIOC-E0800AU1-Pio</translation>
         <translation type="unfinished">被测板1号：</translation>
     </message>
     <message>
-        <source>558_text</source>
-        <translation type="unfinished">被测板2号：</translation>
-    </message>
-    <message>
-        <source>559_text</source>
-        <translation type="unfinished">未启用</translation>
-    </message>
-    <message>
         <source>55_text</source>
         <translation type="unfinished">测试成功</translation>
-    </message>
-    <message>
-        <source>560_text</source>
-        <translation type="unfinished">失败！</translation>
-    </message>
-    <message>
-        <source>561_clicked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>561_onText</source>
-        <translation type="unfinished">文本</translation>
-    </message>
-    <message>
-        <source>561_text</source>
-        <translation type="unfinished">确认</translation>
-    </message>
-    <message>
-        <source>562_text</source>
-        <translation type="unfinished">被测板1号：</translation>
-    </message>
-    <message>
-        <source>563_text</source>
-        <translation type="unfinished">被测板2号：</translation>
-    </message>
-    <message>
-        <source>564_text</source>
-        <translation type="unfinished">未启用</translation>
-    </message>
-    <message>
-        <source>565_text</source>
-        <translation type="unfinished">测试结果</translation>
     </message>
     <message>
         <source>56_clicked</source>
@@ -3759,14 +3703,6 @@ ZIOC-E0800AU1-Pio</translation>
     <message>
         <source>573_text</source>
         <translation type="unfinished">被测板1号：</translation>
-    </message>
-    <message>
-        <source>574_text</source>
-        <translation type="unfinished">被测板2号：</translation>
-    </message>
-    <message>
-        <source>575_text</source>
-        <translation type="unfinished">未启用</translation>
     </message>
     <message>
         <source>576_text</source>
@@ -3836,15 +3772,17 @@ AI误差测试</translation>
     </message>
     <message>
         <source>587_text</source>
-        <translation type="unfinished">失败原因：ESI读写失败</translation>
+        <translation type="unfinished">失败原因：ESI读写失败
+建议检查各个网口网线连接</translation>
     </message>
     <message>
         <source>588_text</source>
-        <translation type="unfinished">失败原因：OP请求超时</translation>
+        <translation type="unfinished">失败原因：OP请求超时
+建议检查各个网口网线连接</translation>
     </message>
     <message>
         <source>589_text</source>
-        <translation type="unfinished">失败原因：AI校准失败</translation>
+        <translation type="unfinished">失败原因：模块校准异常</translation>
     </message>
     <message>
         <source>58_clicked</source>
@@ -3860,11 +3798,12 @@ AI误差测试</translation>
     </message>
     <message>
         <source>595_text</source>
-        <translation type="unfinished">失败原因：AI测试失败</translation>
+        <translation type="unfinished">失败原因：误差测试异常</translation>
     </message>
     <message>
         <source>596_text</source>
-        <translation type="unfinished">失败原因：LED不亮</translation>
+        <translation type="unfinished">失败原因：模块LED检测异常
+建议检查摄像头和灯光是否正常</translation>
     </message>
     <message>
         <source>597_text</source>
@@ -3903,28 +3842,8 @@ AI误差测试</translation>
         <translation type="unfinished">失败原因：LED不亮</translation>
     </message>
     <message>
-        <source>603_text</source>
-        <translation type="unfinished">失败原因：ESI读写失败</translation>
-    </message>
-    <message>
-        <source>604_text</source>
-        <translation type="unfinished">失败原因：OP请求超时</translation>
-    </message>
-    <message>
-        <source>605_text</source>
-        <translation type="unfinished">失败原因：ADC模块通信异常</translation>
-    </message>
-    <message>
         <source>606_text</source>
         <translation type="unfinished">失败原因：ADC模块通信异常</translation>
-    </message>
-    <message>
-        <source>607_text</source>
-        <translation type="unfinished">失败原因：AO校准失败</translation>
-    </message>
-    <message>
-        <source>608_text</source>
-        <translation type="unfinished">失败原因：AO测试失败</translation>
     </message>
     <message>
         <source>609_clicked</source>
@@ -4128,26 +4047,6 @@ AI误差测试</translation>
         <translation type="unfinished">选项设置</translation>
     </message>
     <message>
-        <source>630_text</source>
-        <translation type="unfinished">失败原因：LED不亮</translation>
-    </message>
-    <message>
-        <source>631_text</source>
-        <translation type="unfinished">异常通道：</translation>
-    </message>
-    <message>
-        <source>632_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>632_text</source>
-        <translation type="unfinished">0000000000000000</translation>
-    </message>
-    <message>
-        <source>632_write</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>633_text</source>
         <translation type="unfinished">异常通道：</translation>
     </message>
@@ -4233,42 +4132,6 @@ AI误差测试</translation>
     </message>
     <message>
         <source>643_text</source>
-        <translation type="unfinished">模块
-电源
-开关</translation>
-    </message>
-    <message>
-        <source>644_clicked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>644_onText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>644_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>645_text</source>
-        <translation type="unfinished">模块
-电源
-开关</translation>
-    </message>
-    <message>
-        <source>646_clicked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>646_onText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>646_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>647_text</source>
         <translation type="unfinished">模块
 电源
 开关</translation>
@@ -4571,22 +4434,6 @@ ZIOC-E0008AU1</translation>
         <translation type="unfinished">测试耗时：</translation>
     </message>
     <message>
-        <source>688_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>688_text</source>
-        <translation type="unfinished">0000000000000000</translation>
-    </message>
-    <message>
-        <source>688_write</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>689_text</source>
-        <translation type="unfinished">测试耗时：</translation>
-    </message>
-    <message>
         <source>68_clicked</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4812,24 +4659,6 @@ ZCPC-80801</translation>
         <translation type="unfinished">批次序列号：</translation>
     </message>
     <message>
-        <source>730_clicked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>730_onText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>730_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>731_text</source>
-        <translation type="unfinished">模块
-电源
-开关</translation>
-    </message>
-    <message>
         <source>732_text</source>
         <translation type="unfinished">State: Init</translation>
     </message>
@@ -4884,7 +4713,7 @@ ZCPC-80801</translation>
     </message>
     <message>
         <source>747_text</source>
-        <translation type="unfinished">ZIOC-E0008AU-Pio  8通道单端电压输出PNP</translation>
+        <translation type="unfinished">ZIOC-E0008AU-Pio  8通道单端电压输出</translation>
     </message>
     <message>
         <source>748_clicked</source>
@@ -4896,7 +4725,7 @@ ZCPC-80801</translation>
     </message>
     <message>
         <source>748_text</source>
-        <translation type="unfinished">ZIOC-E0008AU-Pio  8通道单端电压输出PNP</translation>
+        <translation type="unfinished">ZIOC-E0800AU1-Pio  8通道混合电压输入</translation>
     </message>
     <message>
         <source>749_text</source>
@@ -5141,24 +4970,6 @@ LED视觉检测</translation>
         <translation type="unfinished">插板式</translation>
     </message>
     <message>
-        <source>801_clicked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>801_onText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>801_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>802_text</source>
-        <translation type="unfinished">模块
-电源
-开关</translation>
-    </message>
-    <message>
         <source>803_text</source>
         <translation type="unfinished">State: Init</translation>
     </message>
@@ -5170,22 +4981,6 @@ LED视觉检测</translation>
         <source>805_text</source>
         <translation type="unfinished">测试状态：
 初始化主站</translation>
-    </message>
-    <message>
-        <source>807_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>807_text</source>
-        <translation type="unfinished">000</translation>
-    </message>
-    <message>
-        <source>807_write</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>808_text</source>
-        <translation type="unfinished">测试用时：</translation>
     </message>
     <message>
         <source>813_text</source>
@@ -5259,7 +5054,7 @@ ZPWC-240304a</translation>
     </message>
     <message>
         <source>824_text</source>
-        <translation type="unfinished">成功！</translation>
+        <translation type="unfinished">通过！</translation>
     </message>
     <message>
         <source>825_clicked</source>
@@ -5280,14 +5075,6 @@ ZPWC-240304a</translation>
     <message>
         <source>827_text</source>
         <translation type="unfinished">被测板1号：</translation>
-    </message>
-    <message>
-        <source>828_text</source>
-        <translation type="unfinished">被测板2号：</translation>
-    </message>
-    <message>
-        <source>829_text</source>
-        <translation type="unfinished">未启用</translation>
     </message>
     <message>
         <source>830_numUnit</source>
@@ -5323,11 +5110,12 @@ ZPWC-240304a</translation>
     </message>
     <message>
         <source>845_text</source>
-        <translation type="unfinished">失败原因：OP请求失败</translation>
+        <translation type="unfinished">失败原因：OP请求失败，
+建议先检查下网线</translation>
     </message>
     <message>
         <source>846_text</source>
-        <translation type="unfinished">失败原因：电压测试失败</translation>
+        <translation type="unfinished">失败原因：电压测试点异常</translation>
     </message>
     <message>
         <source>847_clicked</source>
@@ -5404,17 +5192,186 @@ ZCPC-8080x-Test测试架。</translation>
     </message>
     <message>
         <source>859_text</source>
-        <translation type="unfinished">当前没有检测到测试架。</translation>
+        <translation type="unfinished">当前没有检测到测试架，
+请你检查一下啦。</translation>
     </message>
     <message>
         <source>860_text</source>
         <translation type="unfinished">失败原因：外壳改版丝印不对</translation>
     </message>
     <message>
+        <source>861_text</source>
+        <translation type="unfinished">失败！</translation>
+    </message>
+    <message>
+        <source>862_text</source>
+        <translation type="unfinished">失败原因：ESI读写失败。
+建议检查一下各个网口网线。</translation>
+    </message>
+    <message>
+        <source>863_text</source>
+        <translation type="unfinished">失败原因：OP请求超时。
+建议检查下各个网口网线。</translation>
+    </message>
+    <message>
+        <source>864_text</source>
+        <translation type="unfinished">失败原因：ADC模块通信异常。
+建议检查ADC模块的接线。</translation>
+    </message>
+    <message>
+        <source>865_text</source>
+        <translation type="unfinished">失败原因：校准异常</translation>
+    </message>
+    <message>
+        <source>866_text</source>
+        <translation type="unfinished">失败原因：输出误差测试异常</translation>
+    </message>
+    <message>
+        <source>867_text</source>
+        <translation type="unfinished">失败原因：LED视觉检测异常
+建议检查LED或视觉摄像头是否正常。</translation>
+    </message>
+    <message>
+        <source>868_text</source>
+        <translation type="unfinished">校准异常通道：</translation>
+    </message>
+    <message>
+        <source>869_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>869_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>869_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>870_text</source>
+        <translation type="unfinished">输出异常通道：</translation>
+    </message>
+    <message>
+        <source>871_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>871_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>871_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>872_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>872_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>872_text</source>
+        <translation type="unfinished">确认</translation>
+    </message>
+    <message>
+        <source>873_text</source>
+        <translation type="unfinished">测试点电压：</translation>
+    </message>
+    <message>
+        <source>874_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>874_text</source>
+        <translation type="unfinished">000</translation>
+    </message>
+    <message>
+        <source>874_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>875_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>875_text</source>
+        <translation type="unfinished">000</translation>
+    </message>
+    <message>
+        <source>875_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>876_text</source>
+        <translation type="unfinished">测试用时：</translation>
+    </message>
+    <message>
+        <source>877_text</source>
+        <translation type="unfinished">测试点电压：</translation>
+    </message>
+    <message>
+        <source>878_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>878_text</source>
+        <translation type="unfinished">000</translation>
+    </message>
+    <message>
+        <source>878_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>879_text</source>
+        <translation type="unfinished">[裸板]</translation>
+    </message>
+    <message>
         <source>87_text</source>
         <translation type="unfinished">模块UID读取成功！
 请将网线插回PLC的EtherCAT口，
 并将模块重新上下电</translation>
+    </message>
+    <message>
+        <source>886_text</source>
+        <translation type="unfinished">ADC模块8通道电压：</translation>
+    </message>
+    <message>
+        <source>887_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>887_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>887_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>888_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>888_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>888_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>889_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>889_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>889_write</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>88_clicked</source>
@@ -5430,6 +5387,86 @@ ZCPC-8080x-Test测试架。</translation>
 并重新上下电</translation>
     </message>
     <message>
+        <source>890_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>890_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>890_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>891_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>891_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>891_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>892_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>892_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>892_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>893_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>893_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>893_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>894_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>894_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>894_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>895_text</source>
+        <translation type="unfinished">1.</translation>
+    </message>
+    <message>
+        <source>896_text</source>
+        <translation type="unfinished">2.</translation>
+    </message>
+    <message>
+        <source>897_text</source>
+        <translation type="unfinished">3.</translation>
+    </message>
+    <message>
+        <source>898_text</source>
+        <translation type="unfinished">4.</translation>
+    </message>
+    <message>
+        <source>899_text</source>
+        <translation type="unfinished">5.</translation>
+    </message>
+    <message>
         <source>8_clicked</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5442,28 +5479,479 @@ ZCPC-8080x-Test测试架。</translation>
         <translation type="unfinished">分布式</translation>
     </message>
     <message>
+        <source>900_text</source>
+        <translation type="unfinished">6.</translation>
+    </message>
+    <message>
+        <source>901_text</source>
+        <translation type="unfinished">7.</translation>
+    </message>
+    <message>
+        <source>902_text</source>
+        <translation type="unfinished">8.</translation>
+    </message>
+    <message>
+        <source>904_text</source>
+        <translation type="unfinished">测试状态：
+AO裸板电压
+测试点</translation>
+    </message>
+    <message>
+        <source>905_text</source>
+        <translation type="unfinished">测试状态：
+LED视觉检测</translation>
+    </message>
+    <message>
+        <source>906_text</source>
+        <translation type="unfinished">测试状态：
+测试数据记录</translation>
+    </message>
+    <message>
+        <source>907_text</source>
+        <translation type="unfinished">当前选择的测试架为：
+ZIOC-AUDI-Test测试架。</translation>
+    </message>
+    <message>
+        <source>908_text</source>
+        <translation type="unfinished">当前选择的测试架为：
+ZIOC-AU-Test测试架。</translation>
+    </message>
+    <message>
+        <source>909_text</source>
+        <translation type="unfinished">失败原因：模块测试超时</translation>
+    </message>
+    <message>
         <source>90_text</source>
         <translation type="unfinished">正在读取UID，请勿关闭此窗口</translation>
+    </message>
+    <message>
+        <source>910_text</source>
+        <translation type="unfinished">ADC模块8通道电压：</translation>
+    </message>
+    <message>
+        <source>911_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>911_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>911_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>912_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>912_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>912_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>913_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>913_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>913_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>914_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>914_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>914_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>915_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>915_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>915_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>916_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>916_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>916_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>917_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>917_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>917_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>918_numUnit</source>
+        <translation type="unfinished">V</translation>
+    </message>
+    <message>
+        <source>918_text</source>
+        <translation type="unfinished">00.000</translation>
+    </message>
+    <message>
+        <source>918_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>919_text</source>
+        <translation type="unfinished">1.</translation>
     </message>
     <message>
         <source>91_text</source>
         <translation type="unfinished">测试结果</translation>
     </message>
     <message>
+        <source>920_text</source>
+        <translation type="unfinished">2.</translation>
+    </message>
+    <message>
+        <source>921_text</source>
+        <translation type="unfinished">3.</translation>
+    </message>
+    <message>
+        <source>922_text</source>
+        <translation type="unfinished">4.</translation>
+    </message>
+    <message>
+        <source>923_text</source>
+        <translation type="unfinished">5.</translation>
+    </message>
+    <message>
+        <source>924_text</source>
+        <translation type="unfinished">6.</translation>
+    </message>
+    <message>
+        <source>925_text</source>
+        <translation type="unfinished">7.</translation>
+    </message>
+    <message>
+        <source>926_text</source>
+        <translation type="unfinished">8.</translation>
+    </message>
+    <message>
+        <source>928_text</source>
+        <translation type="unfinished">失败！</translation>
+    </message>
+    <message>
+        <source>929_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>929_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>929_text</source>
+        <translation type="unfinished">确认</translation>
+    </message>
+    <message>
         <source>92_text</source>
         <translation type="unfinished">被测板1号：</translation>
+    </message>
+    <message>
+        <source>930_text</source>
+        <translation type="unfinished">失败原因：裸板电压测试异常</translation>
+    </message>
+    <message>
+        <source>931_text</source>
+        <translation type="unfinished">测试状态：
+ADC模块初始化</translation>
+    </message>
+    <message>
+        <source>932_text</source>
+        <translation type="unfinished">测试状态：
+裸板电压测试</translation>
+    </message>
+    <message>
+        <source>933_text</source>
+        <translation type="unfinished">测试状态：
+模块校准</translation>
+    </message>
+    <message>
+        <source>934_text</source>
+        <translation type="unfinished">测试状态：
+误差测试</translation>
+    </message>
+    <message>
+        <source>935_text</source>
+        <translation type="unfinished">测试状态：
+LED视觉检测</translation>
+    </message>
+    <message>
+        <source>936_text</source>
+        <translation type="unfinished">测试状态：
+测试数据记录</translation>
+    </message>
+    <message>
+        <source>937_text</source>
+        <translation type="unfinished">UID:</translation>
+    </message>
+    <message>
+        <source>938_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>938_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>938_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>939_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>939_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>939_write</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>93_text</source>
         <translation type="unfinished">被测板2号：</translation>
     </message>
     <message>
+        <source>940_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>940_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>940_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>941_text</source>
+        <translation type="unfinished">UID:</translation>
+    </message>
+    <message>
+        <source>942_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>942_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>942_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>943_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>943_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>943_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>944_text</source>
+        <translation type="unfinished">失败原因：ESI读写失败</translation>
+    </message>
+    <message>
+        <source>945_text</source>
+        <translation type="unfinished">失败原因：OP请求超时</translation>
+    </message>
+    <message>
+        <source>946_text</source>
+        <translation type="unfinished">失败原因：AI校准失败</translation>
+    </message>
+    <message>
+        <source>947_text</source>
+        <translation type="unfinished">失败原因：AI测试失败</translation>
+    </message>
+    <message>
+        <source>948_text</source>
+        <translation type="unfinished">失败原因：LED不亮</translation>
+    </message>
+    <message>
+        <source>949_text</source>
+        <translation type="unfinished">失败原因：ADC模块通信异常</translation>
+    </message>
+    <message>
         <source>94_text</source>
         <translation type="unfinished">未启用</translation>
     </message>
     <message>
+        <source>950_text</source>
+        <translation type="unfinished">异常通道：</translation>
+    </message>
+    <message>
+        <source>951_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>951_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>951_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>952_text</source>
+        <translation type="unfinished">异常通道：</translation>
+    </message>
+    <message>
+        <source>953_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>953_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>953_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>954_text</source>
+        <translation type="unfinished">失败原因：ESI读写失败
+建议检查各个网口网线连接</translation>
+    </message>
+    <message>
+        <source>955_text</source>
+        <translation type="unfinished">失败原因：OP请求超时
+建议检查各个网口网线连接</translation>
+    </message>
+    <message>
+        <source>956_text</source>
+        <translation type="unfinished">失败原因：模块校准异常</translation>
+    </message>
+    <message>
+        <source>957_text</source>
+        <translation type="unfinished">失败原因：误差测试异常</translation>
+    </message>
+    <message>
+        <source>958_text</source>
+        <translation type="unfinished">失败原因：模块LED检测异常
+建议检查摄像头和灯光是否正常</translation>
+    </message>
+    <message>
+        <source>959_text</source>
+        <translation type="unfinished">失败原因：ADC模块通信异常</translation>
+    </message>
+    <message>
         <source>95_text</source>
         <translation type="unfinished">被测板1号：</translation>
+    </message>
+    <message>
+        <source>960_text</source>
+        <translation type="unfinished">异常通道：</translation>
+    </message>
+    <message>
+        <source>961_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>961_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>961_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>962_text</source>
+        <translation type="unfinished">异常通道：</translation>
+    </message>
+    <message>
+        <source>963_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>963_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>963_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>964_text</source>
+        <translation type="unfinished">UID:</translation>
+    </message>
+    <message>
+        <source>965_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>965_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>965_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>966_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>966_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>966_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>967_text</source>
+        <translation type="unfinished">裸板测试点电压：</translation>
+    </message>
+    <message>
+        <source>968_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>968_text</source>
+        <translation type="unfinished">000</translation>
+    </message>
+    <message>
+        <source>968_write</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>96_text</source>
