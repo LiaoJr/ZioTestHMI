@@ -2149,6 +2149,10 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>32_title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>38_title</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2950,7 +2954,7 @@ ZIOC-E1600DP-Pio</translation>
     <message>
         <source>366_text</source>
         <translation type="unfinished">测试状态：
-DI无效电平</translation>
+DI裸板输入测试</translation>
     </message>
     <message>
         <source>367_text</source>
@@ -3306,10 +3310,6 @@ ZIOC-E1600DN</translation>
         <translation type="unfinished">开始测试</translation>
     </message>
     <message>
-        <source>474_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>475_text</source>
         <translation type="unfinished">测试模块：
 ZIOC-E0008AU</translation>
@@ -3545,11 +3545,6 @@ ZIOC-E0008AI</translation>
 初始化主站</translation>
     </message>
     <message>
-        <source>530_text</source>
-        <translation type="unfinished">测试状态：
-AI模块校准</translation>
-    </message>
-    <message>
         <source>531_text</source>
         <translation type="unfinished">测试模块：
 ZIOC-E0800AU</translation>
@@ -3685,38 +3680,9 @@ ZIOC-E0800AU1-Pio</translation>
         <translation type="unfinished">停止测试</translation>
     </message>
     <message>
-        <source>571_text</source>
-        <translation type="unfinished">失败！</translation>
-    </message>
-    <message>
-        <source>572_clicked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>572_onText</source>
-        <translation type="unfinished">文本</translation>
-    </message>
-    <message>
-        <source>572_text</source>
-        <translation type="unfinished">确认</translation>
-    </message>
-    <message>
-        <source>573_text</source>
-        <translation type="unfinished">被测板1号：</translation>
-    </message>
-    <message>
-        <source>576_text</source>
-        <translation type="unfinished">测试结果</translation>
-    </message>
-    <message>
         <source>578_text</source>
         <translation type="unfinished">测试状态：
 AO误差测试</translation>
-    </message>
-    <message>
-        <source>579_text</source>
-        <translation type="unfinished">测试状态：
-AI误差测试</translation>
     </message>
     <message>
         <source>57_text</source>
@@ -3771,20 +3737,6 @@ AI误差测试</translation>
         <translation type="unfinished">导出到U盘</translation>
     </message>
     <message>
-        <source>587_text</source>
-        <translation type="unfinished">失败原因：ESI读写失败
-建议检查各个网口网线连接</translation>
-    </message>
-    <message>
-        <source>588_text</source>
-        <translation type="unfinished">失败原因：OP请求超时
-建议检查各个网口网线连接</translation>
-    </message>
-    <message>
-        <source>589_text</source>
-        <translation type="unfinished">失败原因：模块校准异常</translation>
-    </message>
-    <message>
         <source>58_clicked</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3795,15 +3747,6 @@ AI误差测试</translation>
     <message>
         <source>58_text</source>
         <translation type="unfinished">是</translation>
-    </message>
-    <message>
-        <source>595_text</source>
-        <translation type="unfinished">失败原因：误差测试异常</translation>
-    </message>
-    <message>
-        <source>596_text</source>
-        <translation type="unfinished">失败原因：模块LED检测异常
-建议检查摄像头和灯光是否正常</translation>
     </message>
     <message>
         <source>597_text</source>
@@ -3840,10 +3783,6 @@ AI误差测试</translation>
     <message>
         <source>602_text</source>
         <translation type="unfinished">失败原因：LED不亮</translation>
-    </message>
-    <message>
-        <source>606_text</source>
-        <translation type="unfinished">失败原因：ADC模块通信异常</translation>
     </message>
     <message>
         <source>609_clicked</source>
@@ -4045,22 +3984,6 @@ AI误差测试</translation>
     <message>
         <source>628_text</source>
         <translation type="unfinished">选项设置</translation>
-    </message>
-    <message>
-        <source>633_text</source>
-        <translation type="unfinished">异常通道：</translation>
-    </message>
-    <message>
-        <source>634_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>634_text</source>
-        <translation type="unfinished">0000000000000000</translation>
-    </message>
-    <message>
-        <source>634_write</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>635_text</source>
@@ -4415,22 +4338,6 @@ ZIOC-E0008AU1</translation>
     </message>
     <message>
         <source>685_text</source>
-        <translation type="unfinished">测试耗时：</translation>
-    </message>
-    <message>
-        <source>686_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>686_text</source>
-        <translation type="unfinished">0000000000000000</translation>
-    </message>
-    <message>
-        <source>686_write</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>687_text</source>
         <translation type="unfinished">测试耗时：</translation>
     </message>
     <message>
@@ -5719,18 +5626,6 @@ LED视觉检测</translation>
         <translation type="unfinished">UID:</translation>
     </message>
     <message>
-        <source>938_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>938_text</source>
-        <translation type="unfinished">0000000000000000</translation>
-    </message>
-    <message>
-        <source>938_write</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>939_numUnit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5787,64 +5682,8 @@ LED视觉检测</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>944_text</source>
-        <translation type="unfinished">失败原因：ESI读写失败</translation>
-    </message>
-    <message>
-        <source>945_text</source>
-        <translation type="unfinished">失败原因：OP请求超时</translation>
-    </message>
-    <message>
-        <source>946_text</source>
-        <translation type="unfinished">失败原因：AI校准失败</translation>
-    </message>
-    <message>
-        <source>947_text</source>
-        <translation type="unfinished">失败原因：AI测试失败</translation>
-    </message>
-    <message>
-        <source>948_text</source>
-        <translation type="unfinished">失败原因：LED不亮</translation>
-    </message>
-    <message>
-        <source>949_text</source>
-        <translation type="unfinished">失败原因：ADC模块通信异常</translation>
-    </message>
-    <message>
         <source>94_text</source>
         <translation type="unfinished">未启用</translation>
-    </message>
-    <message>
-        <source>950_text</source>
-        <translation type="unfinished">异常通道：</translation>
-    </message>
-    <message>
-        <source>951_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>951_text</source>
-        <translation type="unfinished">0000000000000000</translation>
-    </message>
-    <message>
-        <source>951_write</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>952_text</source>
-        <translation type="unfinished">异常通道：</translation>
-    </message>
-    <message>
-        <source>953_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>953_text</source>
-        <translation type="unfinished">0000000000000000</translation>
-    </message>
-    <message>
-        <source>953_write</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>954_text</source>
@@ -5954,12 +5793,165 @@ LED视觉检测</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>969_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>969_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>969_text</source>
+        <translation type="unfinished">确认</translation>
+    </message>
+    <message>
         <source>96_text</source>
         <translation type="unfinished">被测板2号：</translation>
     </message>
     <message>
+        <source>970_text</source>
+        <translation type="unfinished">失败！</translation>
+    </message>
+    <message>
+        <source>971_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>971_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>971_text</source>
+        <translation type="unfinished">确认</translation>
+    </message>
+    <message>
+        <source>972_text</source>
+        <translation type="unfinished">失败！</translation>
+    </message>
+    <message>
+        <source>973_text</source>
+        <translation type="unfinished">UID:</translation>
+    </message>
+    <message>
+        <source>974_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>974_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>974_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>975_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>975_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>975_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>976_text</source>
+        <translation type="unfinished">UID:</translation>
+    </message>
+    <message>
+        <source>977_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>977_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>977_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>978_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>978_text</source>
+        <translation type="unfinished">0000000000000000</translation>
+    </message>
+    <message>
+        <source>978_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>979_text</source>
+        <translation type="unfinished">治具没有压下，
+无法升级。</translation>
+    </message>
+    <message>
         <source>97_text</source>
         <translation type="unfinished">未启用</translation>
+    </message>
+    <message>
+        <source>980_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>980_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>980_text</source>
+        <translation type="unfinished">好的</translation>
+    </message>
+    <message>
+        <source>981_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>981_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>981_text</source>
+        <translation type="unfinished">ZIOC-E0016DN  16通道数字输出NPN</translation>
+    </message>
+    <message>
+        <source>982_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>982_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>982_text</source>
+        <translation type="unfinished">ZIOC-E0016DP  16通道数字输出PNP</translation>
+    </message>
+    <message>
+        <source>983_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>983_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>983_text</source>
+        <translation type="unfinished">ZIOC-E1600DN  16通道数字输入NPN</translation>
+    </message>
+    <message>
+        <source>984_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>984_onText</source>
+        <translation type="unfinished">文本</translation>
+    </message>
+    <message>
+        <source>984_text</source>
+        <translation type="unfinished">ZIOC-E1600DP  16通道数字输入PNP</translation>
     </message>
     <message>
         <source>98_text</source>

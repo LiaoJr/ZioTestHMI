@@ -2149,6 +2149,10 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>32_title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>38_title</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3284,10 +3288,6 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>474_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>475_text</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3516,10 +3516,6 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>530_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>531_text</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3652,35 +3648,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>571_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>572_clicked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>572_onText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>572_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>573_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>576_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>578_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>579_text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3736,18 +3704,6 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>587_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>588_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>589_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>58_clicked</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3757,14 +3713,6 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>58_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>595_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>596_text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3801,10 +3749,6 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>602_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>606_text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4005,22 +3949,6 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>628_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>633_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>634_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>634_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>634_write</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4373,22 +4301,6 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>685_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>686_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>686_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>686_write</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>687_text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5640,18 +5552,6 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>938_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>938_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>938_write</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>939_numUnit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5708,63 +5608,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>944_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>945_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>946_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>947_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>948_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>949_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>94_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>950_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>951_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>951_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>951_write</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>952_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>953_numUnit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>953_text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>953_write</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5872,11 +5716,163 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>969_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>969_onText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>969_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>96_text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>970_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>971_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>971_onText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>971_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>972_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>973_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>974_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>974_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>974_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>975_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>975_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>975_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>976_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>977_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>977_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>977_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>978_numUnit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>978_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>978_write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>979_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>97_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>980_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>980_onText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>980_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>981_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>981_onText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>981_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>982_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>982_onText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>982_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>983_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>983_onText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>983_text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>984_clicked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>984_onText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>984_text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
